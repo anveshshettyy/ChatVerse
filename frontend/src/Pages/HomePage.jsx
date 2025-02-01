@@ -1,7 +1,7 @@
 import { useChatStore } from "../store/useChatStore";
 
 import Sidebar from "../Components/Sidebar";
-import NoChatSelected from "../components/NoChatSelected";
+import NoChatSelected from "../Components/NoChatSelected";
 import ChatContainer from "../Components/ChatContainer";
 
 const HomePage = () => {
